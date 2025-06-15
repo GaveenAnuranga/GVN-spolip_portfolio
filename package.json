@@ -1,0 +1,28 @@
+{
+  "version": "1.0.0",
+  "source": "./index.html",
+  "type": "module",
+  "name": "portfolio-website",
+  "description": "A responsive portfolio website with dark/light mode toggle",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "clsx": "2.1.1",
+    "emailjs-com": "^3.2.0",
+    "lucide-react": "^0.453.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.8.1",
+    "react-toastify": "^11.0.5",
+    "react-type-animation": "^3.2.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "4.3.4",
+    "autoprefixer": "^10.4.16",
+    "postcss": "^8.4.32",
+    "tailwindcss": "3.4.16",
+    "vite": "6.0.4"
+  }
+}
