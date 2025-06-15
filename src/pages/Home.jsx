@@ -188,7 +188,7 @@ function Home() {
               <div className="relative w-80 h-80 lg:w-96 lg:h-96">
                 <div className="absolute inset-0 bg-yellow-400 rounded-3xl rotate-45 dark:opacity-20 opacity-70 hover:rotate-0 transition-transform duration-500"></div>
                 <div className="absolute inset-4 bg-gray-200 dark:bg-gray-800 rounded-3xl rotate-0 border-4 border-gray-900 dark:border-white hover:shadow-2xl hover:shadow-yellow-400/20 transition-all duration-500"></div>
-                <div className="relative top-1 left-8"><img src={pp} alt="Profile" className=" w-80" /></div>
+                <div className="relative top-6 left-12 lg:top-1 lg:left-8"><img src={pp} alt="Profile" className=" lg:w-80 w-56" /></div>
               </div>
             </div>
           </div>
